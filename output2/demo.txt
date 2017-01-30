@@ -1,0 +1,8 @@
+is = 3
+Expressive = 1
+Scala = 3
+a = 3
+Hybrid = 1
+Language = 3
+Functional = 1
+
